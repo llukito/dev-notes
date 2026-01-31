@@ -1,1 +1,1 @@
-# dev-notes
+## Repository for storing my configuration notes.
